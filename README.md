@@ -2,7 +2,7 @@
 
 <p><image width="500px" src="https://github-readme-stats.vercel.app/api?username=ChetanBhardwaj6411&theme=radical&count_private=true" alt="ChetanBhardwaj6411"></p>
 
-<p><image width="500px" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanBhardwaj6411&layout=compact)]" alt="ChetanBhardwaj6411"></p>
+<p><image width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanBhardwaj6411&layout=compact" alt="ChetanBhardwaj6411"></p>
 
 <p><img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanBhardwaj6411&theme=dark" alt="ChetanBhardwaj6411" /></p>
 
