@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanBhardwaj6411)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanBhardwaj6411&langs_count=8)]
 
 <!--
 
