@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanBhardwaj6411&langs_count=8)] -->
+<p><image width="500px" src="https://github-readme-stats.vercel.app/api?username=ChetanBhardwaj6411&count_private=true&theme=radical" alt="ChetanBhardwaj6411"></p>
 
 <!--
-
-<p><image width="500px" src="https://github-readme-stats.vercel.app/api?username=ChetanBhardwaj6411&count_private=true&theme=radical" alt="ChetanBhardwaj6411"></p>
 
 <p><image width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanBhardwaj6411" alt="ChetanBhardwaj6411"></p>
 
