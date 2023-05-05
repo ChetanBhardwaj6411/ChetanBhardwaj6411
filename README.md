@@ -5,6 +5,10 @@
 
 
 
+<!-- Hello 👋. It has been 142 days of daily GitHub commits, with many of them just fot the sake of not losing my daily streak. I am tired now. I must be better. From now on, I'll only commit something when I have something meaningful for it. -->
+
+
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanbhardwaj6411&label=Profile%20views&color=0e75b6&style=flat" alt="chetanbhardwaj6411" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetanbhardwaj6411" alt="chetanbhardwaj6411" /></a> </p> -->
